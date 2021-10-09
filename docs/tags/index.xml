@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on kinesivan.github.io</title>
-    <link>https://github.kinesivan.io/tags/</link>
+    <link>https://kinesivan.github.io/tags/</link>
     <description>Recent content in Tags on kinesivan.github.io</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://github.kinesivan.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://kinesivan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
