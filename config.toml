@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "https://github.kinesivan.io"
 title = "kinesivan.github.io"
 theme = "hugo-theme-console"
-
+publishDir = "docs"
